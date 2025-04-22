@@ -224,3 +224,7 @@ This project uses the following open source components:
 - **openai** and **openai-agents** - OpenAI integration
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE) as required by the aps-toolkit dependency.
+
+## Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or implied. This is a prototype for demonstration purposes only. The author takes no responsibility for any damages or issues that may arise from using this software. Use at your own risk.
