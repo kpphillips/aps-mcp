@@ -136,6 +136,10 @@ macOS users may encounter permission issues when integrating with Claude Desktop
    tail -n 50 -f ~/Library/Logs/Claude/mcp*.log
    ```
 
+## Requirements
+- Python 3.11 or higher
+- Dependencies listed in requirements.txt
+
 ## System Architecture
 
 This MCP server acts as a bridge between Claude AI and the Autodesk APS platform. The diagram below illustrates how data flows through the system:
