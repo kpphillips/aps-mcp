@@ -1,0 +1,6 @@
+mcp>=1.2.0
+aps-toolkit
+python-dotenv
+requests
+openai>=1.31.0
+openai-agents
