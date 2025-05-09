@@ -1,4 +1,4 @@
-# ACC MCP Integration
+# APS MCP Server
 
 A minimal MCP server integrating Autodesk ACC APIs via APS toolkit.
 
