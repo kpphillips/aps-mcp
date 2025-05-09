@@ -2,6 +2,10 @@
 
 A minimal MCP server integrating Autodesk ACC APIs via APS toolkit.
 
+## Video Overview
+[![IMAGE ALT TEXT HERE](./images/APS_MCP_Thumbnail.PNG)](https://www.youtube.com/watch?v=pUtWc8oFCEA)
+
+
 ## Setup
 
 ### Option 1: Using uv (recommended)
